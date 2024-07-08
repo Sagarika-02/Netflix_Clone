@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a clone of the Netflix interface, built using HTML and CSS for frontend design practice.
+This project is a clone of the Netflix interface, built using HTML5 and CSS3 for frontend design practice.
 
 ## Features
 
@@ -22,10 +22,10 @@ The project directory structure is as follows:
 Netflix/
 │
 ├── index.html        # Main HTML file for Netflix clone
-├── styles.css    # CSS file for styling
+├── style.css    # CSS file for styling
 │  
 ├── Assets/           # Directory for storing images
-│   └── (image files)
+│   └── (image & video files)
 └── README.md         # This file, providing project details
 ```
 
