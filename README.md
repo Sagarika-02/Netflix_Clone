@@ -28,8 +28,8 @@ Netflix/
 │   └── (image files)
 └── README.md         # This file, providing project details
 ```
-##Overview
-![Screenshot of Facebook Clone](Assets/net.png)
+##Image
+[Screenshot of Facebook Clone](Assets/net.png)
 
 ## Usage
 
