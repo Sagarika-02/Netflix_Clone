@@ -12,7 +12,7 @@ This project is a clone of the Netflix interface, built using HTML5 and CSS3 for
 - **CSS Flexbox**: Utilizes Flexbox for layout management, ensuring a dynamic and fluid UI.
 - **HTML Structure**: Follows semantic HTML5 markup for better accessibility and SEO.
 - **Custom Styles**: Custom CSS to mimic Netflix's look and feel, including navigation, grid layout for movie thumbnails, and modal overlays.
-- **Live Website**: Access the live website [https://aurora24.netlify.app/].
+- **Live Website**: [Visit the Facebook Clone Live](https://aurora24.netlify.app/)
 
 ## Project Structure
 
